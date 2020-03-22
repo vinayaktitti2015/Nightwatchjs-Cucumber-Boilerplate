@@ -1,0 +1,11 @@
+
+node_modules
+report/*
+
+# Debug log from npm
+npm-debug.log
+chromedriver.log
+selenium-server.log
+
+
+
