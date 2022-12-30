@@ -28,7 +28,7 @@
     "dotenv": "^8.2.0",
     "env2": "^2.2.2",
     "geckodriver": "^1.19.1",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "nightwatch": "^1.2.4",
     "nightwatch-api": "^2.3.0",
     "selenium-server": "^3.141.59"
